@@ -1,0 +1,57 @@
+[
+  {
+    "model": "users.User",
+    "pk": 1,
+    "fields": {
+      "username": "James",
+      "password": "12345james",
+      "email": "james.carter87@example.com",
+      "role": "landlord",
+      "is_active": true
+    }
+  },
+  {
+    "model": "users.User",
+    "pk": 2,
+    "fields": {
+      "username": "Emily",
+      "password": "e12345",
+      "email": "emily@example.com",
+      "role": "landlord",
+      "is_active": true
+    }
+  },
+  {
+    "model": "users.User",
+    "pk": 3,
+    "fields": {
+      "username": "Michael",
+      "password": "m123456",
+      "email": "michael@example.com",
+      "role": "landlord",
+      "is_active": true
+    }
+  },
+  {
+    "model": "users.User",
+    "pk": 4,
+    "fields": {
+      "username": "Olivia",
+      "password": "o123456",
+      "email": "olivia@example.com",
+      "role": "tenant",
+      "is_active": true
+    }
+  },
+  {
+    "model": "users.User",
+    "pk": 5,
+    "fields": {
+      "username": "Sophia",
+      "password": "s123456",
+      "email": "sophia@example.com",
+      "role": "tenant",
+      "is_active": true
+    }
+  }
+]
